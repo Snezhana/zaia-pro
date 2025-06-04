@@ -1,0 +1,6 @@
+requests
+python-dotenv
+bs4
+openai
+pydantic-settings
+boto3
